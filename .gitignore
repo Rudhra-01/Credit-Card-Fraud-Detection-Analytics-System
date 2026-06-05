@@ -1,0 +1,6 @@
+venv/
+*.pbix
+creditcard.csv
+fraud_analysis.csv
+__pycache__/
+.ipynb_checkpoints/
