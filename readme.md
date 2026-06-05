@@ -27,6 +27,20 @@ Machine Learning project to identify fraudulent credit card transactions and vis
 
 Kaggle Credit Card Fraud Detection Dataset
 
+## Dataset & Dashboard Files
+
+Due to GitHub file size limitations, the dataset and Power BI dashboard are hosted externally.
+
+Dataset:
+https://your-google-drive-link
+
+Power BI Dashboard:
+https://your-google-drive-link
+
+Fraud Analysis CSV:
+https://your-google-drive-link
+
+
 Due to GitHub file size limitations, the dataset is not included in this repository.
 
 ## Power BI Dashboard
