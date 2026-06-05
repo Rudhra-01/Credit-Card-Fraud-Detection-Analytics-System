@@ -32,13 +32,13 @@ Kaggle Credit Card Fraud Detection Dataset
 Due to GitHub file size limitations, the dataset and Power BI dashboard are hosted externally.
 
 Dataset:
-https://your-google-drive-link
+https://drive.google.com/drive/folders/1BTNr20xFVhEEl6cvBtpfijwk1YLXrKFP?usp=drive_link
 
 Power BI Dashboard:
-https://your-google-drive-link
+https://drive.google.com/file/d/11W_koI2Vy07Uj4ZKBl1PbuD8dL9lf4DX/view?usp=drive_link
 
 Fraud Analysis CSV:
-https://your-google-drive-link
+https://drive.google.com/file/d/1wck87VY-9_nj6z0cyGIdGz7S8TJVSDqX/view?usp=drive_link
 
 
 Due to GitHub file size limitations, the dataset is not included in this repository.
