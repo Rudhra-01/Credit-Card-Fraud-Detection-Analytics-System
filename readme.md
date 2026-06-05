@@ -1,3 +1,4 @@
+<img width="1369" height="739" alt="power_Bi_dashboard" src="https://github.com/user-attachments/assets/74772c84-8ac2-485b-98ff-b26ff89d431a" />
 # Credit Card Fraud Detection & Analytics System
 
 ## Overview
