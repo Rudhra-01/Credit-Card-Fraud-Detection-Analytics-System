@@ -42,6 +42,12 @@ https://drive.google.com/file/d/11W_koI2Vy07Uj4ZKBl1PbuD8dL9lf4DX/view?usp=drive
 Fraud Analysis CSV:
 https://drive.google.com/file/d/1wck87VY-9_nj6z0cyGIdGz7S8TJVSDqX/view?usp=drive_link
 
+Streamlit :
+streamlit run app.py                      
+You can now view your Streamlit app in your browser.
+            
+  Local URL: http://localhost:8501                              
+  Network URL: http://192.168.29.27:8501
 
 Due to GitHub file size limitations, the dataset is not included in this repository.
 
